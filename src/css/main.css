@@ -1,0 +1,13 @@
+:root {
+  --green: #1abc9c;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var( --green );
+}
